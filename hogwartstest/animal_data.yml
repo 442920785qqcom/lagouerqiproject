@@ -1,0 +1,12 @@
+cat:
+  name: 'mimimi'
+  color: 'red'
+  age: 3
+  gender: 'female'
+  maofa: 'duanfa'
+dog:
+  name: 'wangwangwang'
+  color: 'black'
+  age: 6
+  gender: 'male'
+  maofa: 'changfa'
